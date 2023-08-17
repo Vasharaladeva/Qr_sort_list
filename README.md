@@ -1,2 +1,2 @@
-# Qr_sort_list
-npm I - npm run dev 
+# react_vite_from_qrv1
+MERN front v1
